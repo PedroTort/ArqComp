@@ -1,0 +1,40 @@
+v 4
+file . "ram.vhd" "e06c67cc7da1cd9d11db575b503f9fbef02ef21c" "20220623001606.941":
+  entity ram at 1( 0) + 0 on 831;
+  architecture ram_a of ram at 16( 325) + 0 on 832;
+file . "ULA_tb.vhd" "583bd1e94c461e3d36b28e9767639cedd4082332" "20220623001606.735":
+  entity ula_tb at 1( 0) + 0 on 827;
+  architecture a_ula_tb of ula_tb at 8( 114) + 0 on 828;
+file . "ROM.vhd" "4c08be2fe040464c241dda2891fbd5b088cc1758" "20220623001606.535":
+  entity rom at 1( 0) + 0 on 823;
+  architecture a_rom of rom at 14( 276) + 0 on 824;
+file . "reg1bit.vhd" "b447486e1f862d2fae87943bc3a60162fe7f6751" "20220623001606.323":
+  entity reg1bit at 1( 0) + 0 on 819;
+  architecture a_reg1bit of reg1bit at 15( 286) + 0 on 820;
+file . "Processador_tb.vhd" "978830956d3a273fff782be168ad1bc53a91b792" "20220623001606.106":
+  entity processador_tb at 1( 0) + 0 on 815;
+  architecture a_processador_tb of processador_tb at 8( 130) + 0 on 816;
+file . "mux2x1.vhd" "8e080e9c8002576d912dfba26d4bc66e56069e59" "20220623001605.844":
+  entity mux2x1 at 1( 0) + 0 on 811;
+  architecture a_mux2x1 of mux2x1 at 13( 288) + 0 on 812;
+file . "BancoRegistradores.vhd" "8a215debf2e4178bada37ca040d71fb221a83f88" "20220623001605.535":
+  entity bancoregistradores at 1( 0) + 0 on 807;
+  architecture a_bancoregistradores of bancoregistradores at 22( 571) + 0 on 808;
+file . "MaquinaEstados.vhd" "238320ccc06fb9ed02f8acd7b0bf708cff70c407" "20220623001605.753":
+  entity maquinaestados at 1( 0) + 0 on 809;
+  architecture a_maquinaestados of maquinaestados at 13( 249) + 0 on 810;
+file . "PC.vhd" "cb4af0cfe95f8ccf079d870ea035d6d67d6ea184" "20220623001605.939":
+  entity pc at 1( 0) + 0 on 813;
+  architecture a_pc of pc at 16( 370) + 0 on 814;
+file . "Processador.vhd" "d188548c4c2221d7fec1fc1d3898855abe24ad41" "20220623001606.222":
+  entity processador at 1( 0) + 0 on 817;
+  architecture a_processador of processador at 19( 493) + 0 on 818;
+file . "reg16bits.vhd" "15db4e9b20e0da136acbdcfd5f364c4dadd19934" "20220623001606.442":
+  entity reg16bits at 1( 0) + 0 on 821;
+  architecture a_reg16bits of reg16bits at 15( 315) + 0 on 822;
+file . "UC.vhd" "06e7597a709cdd9a393c98b506f3e2a3a8473484" "20220623001606.636":
+  entity uc at 1( 0) + 0 on 825;
+  architecture a_uc of uc at 26( 754) + 0 on 826;
+file . "ULA.vhd" "f514b4e90a923b6f03c790802c0f2740c6052d9b" "20220623001606.840":
+  entity ula at 4( 69) + 0 on 829;
+  architecture a_ula of ula at 26( 527) + 0 on 830;

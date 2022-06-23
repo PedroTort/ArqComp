@@ -1,0 +1,37 @@
+v 4
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/ram.vhd" "0b5003566956080ed1531cc6eff4d483e53608a2" "20220622211741.488":
+  entity ram at 1( 0) + 0 on 1399;
+  architecture ram_a of ram at 16( 310) + 0 on 1400;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/Processador.vhd" "54b8624692a0169bc5e5c11365d33a8d21b8ca8d" "20220622211741.503":
+  entity processador at 1( 0) + 0 on 1401;
+  architecture a_processador of processador at 19( 475) + 0 on 1402;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/mux2x1.vhd" "8ae4401a788f013fcb5a2125252c07af859c9161" "20220622211741.448":
+  entity mux2x1 at 1( 0) + 0 on 1395;
+  architecture a_mux2x1 of mux2x1 at 13( 276) + 0 on 1396;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/BancoRegistradores.vhd" "70fd4825dd84392cfc2f6845285801ab6b743168" "20220622211741.420":
+  entity bancoregistradores at 1( 0) + 0 on 1391;
+  architecture a_bancoregistradores of bancoregistradores at 22( 550) + 0 on 1392;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/PC.vhd" "63d99cc39cc9d2fef2705b5c180ef8494229ab0f" "20220622211741.395":
+  entity pc at 1( 0) + 0 on 1387;
+  architecture a_pc of pc at 16( 355) + 0 on 1388;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/reg16bits.vhd" "0966000f51e3fae66798fdbc0fad80bd7a051896" "20220622211741.338":
+  entity reg16bits at 1( 0) + 0 on 1381;
+  architecture a_reg16bits of reg16bits at 15( 301) + 0 on 1382;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/MaquinaEstados.vhd" "cddd63508742931c13e65c1163b74aeb03d36c06" "20220622211741.378":
+  entity maquinaestados at 1( 0) + 0 on 1385;
+  architecture a_maquinaestados of maquinaestados at 13( 237) + 0 on 1386;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/ROM.vhd" "ad7de79eb226e761491db675ab4b47187d7ef5ec" "20220622211741.409":
+  entity rom at 1( 0) + 0 on 1389;
+  architecture a_rom of rom at 14( 263) + 0 on 1390;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/ULA.vhd" "55cf022881df8e15b1b70d14fb853338954d41f2" "20220622211741.434":
+  entity ula at 4( 66) + 0 on 1393;
+  architecture a_ula of ula at 26( 502) + 0 on 1394;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/UC.vhd" "c34f974d5cb482bff1051657e1d982cdf19dbca2" "20220622211741.477":
+  entity uc at 1( 0) + 0 on 1397;
+  architecture a_uc of uc at 25( 692) + 0 on 1398;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/Processador_tb.vhd" "5032be092f2021f755b8b64215a8e7716c015760" "20220622211741.524":
+  entity processador_tb at 1( 0) + 0 on 1403;
+  architecture a_processador_tb of processador_tb at 8( 123) + 0 on 1404;
+file / "/home/kiche/Documents/20221/arqcomp/ArqComp/reg1bit.vhd" "29f60530f305d3cbf02fee2fb0d12a91c36f1ff9" "20220622211741.350":
+  entity reg1bit at 1( 0) + 0 on 1383;
+  architecture a_reg1bit of reg1bit at 15( 272) + 0 on 1384;

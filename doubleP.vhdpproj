@@ -1,0 +1,20 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="BancoRegistradores.vhd" />
+    <File Include="MaquinaEstados.vhd" />
+    <File Include="PC.vhd" />
+    <File Include="Processador.vhd" />
+    <File Include="Processador_tb.vhd" />
+    <File Include="ROM.vhd" />
+    <File Include="UC.vhd" />
+    <File Include="ULA.vhd" />
+    <File Include="ULA_tb.vhd" />
+    <File Include="mux2x1.vhd" />
+    <File Include="ram.vhd" />
+    <File Include="reg16bits.vhd" />
+    <File Include="reg1bit.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>Processador.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>
